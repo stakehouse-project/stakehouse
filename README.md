@@ -1,10 +1,10 @@
 Stakehouse integration/staging tree
 ================================
 
-http://www.stakehouse.org
+http://stakehouse.host
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2018-20149 Stakehouse Developers
+Copyright (c) 2018-2019 Stakehouse Developers
 
 What is Stakehouse?
 ----------------
