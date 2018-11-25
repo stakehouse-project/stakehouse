@@ -1,4 +1,4 @@
-Stakehouse integration/staging tree
+Stakehouse Scrypt deploy
 ================================
 
 http://stakehouse.host
